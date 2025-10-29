@@ -21,3 +21,6 @@ Characters
 
 Plot (in my own words)
 - Mario and Luigi started a job as plumbers but ended up failing. As they see an opportunity like a flooded city, they will find out what's happening. As they go in the sewers, the brothers find the portal to another world instead.
+
+Reference
+- https://en.wikipedia.org/wiki/The_Super_Mario_Bros._Movie
